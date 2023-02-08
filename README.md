@@ -1,27 +1,9 @@
 # CryptoChecker
+## Rastreador de preço de criptomoeda
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+Verifique todas as atualizações mais recentes da criptomoeda!
 
-## Development server
+-Veja a API utilizada no projeto <a href="https://www.coingecko.com/en/api" target="_blank">clicando aqui!</a>
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://user-images.githubusercontent.com/73480168/217395159-daa9eab5-f2b9-43f1-9e0b-9833f9df2f48.mp4
