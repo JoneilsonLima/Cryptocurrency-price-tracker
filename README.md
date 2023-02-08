@@ -1,5 +1,5 @@
 # CryptoChecker
-## Rastreador de preço de criptomoeda
+## Rastreador de preço de criptomoeda desenvolvido com angular
 
 Verifique todas as atualizações mais recentes da criptomoeda!
 
